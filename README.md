@@ -1,2 +1,5 @@
 # VTK_Useful_things
-Useful scripts in python-vtk
+
+This repository is a collection of useful scripts coded in python-vtk
+
+ 
